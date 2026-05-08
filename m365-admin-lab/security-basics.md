@@ -1,4 +1,4 @@
-This lab covers the core Microsoft 365 admin tasks:
+**This lab covers the core Microsoft 365 admin tasks:**
 
 ---
 
